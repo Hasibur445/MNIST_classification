@@ -1,2 +1,2 @@
 # MNIST_classification
-MNIST dataset digit classification using different techniques.
+MNIST dataset digit classification using different DL techniques.
